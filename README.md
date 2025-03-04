@@ -1,4 +1,4 @@
-### NOTE : The current version can detect UNSAT only up to 6 variables.  There should be still some missing contradiction detections.
+### NOTE : The approach is limited up to 5 variables due to reducing to 2-SAT problem. 
 
 # Exploring Efficient Implication-Based Strategies for the 3-SAT Problem
 
