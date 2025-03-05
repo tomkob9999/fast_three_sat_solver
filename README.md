@@ -1,6 +1,6 @@
 ### NOTE : The approach is limited up to 5 variables due to reducing to 2-SAT problem. 
 
-# Exploring Efficient Implication-Based Strategies for the 3-SAT Problem
+# (A Failed Attempt) Exploring Efficient Implication-Based Strategies for the 3-SAT Problem
 
 # Introduction
 
